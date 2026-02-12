@@ -88,6 +88,7 @@
 
 ## Go 
 
+- [surge-downloader/surge](https://github.com/surge-downloader/surge) - Surge is a blazing fast, open-source terminal (TUI) download manager built in Go.
 - [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It's Hacker News in your terminal
 - [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Track stocks, crypto, and derivatives prices and positions in real time from your terminal
 - [tuxdotrs/trok](https://github.com/tuxdotrs/trok) - Accessing your local service should be simple
