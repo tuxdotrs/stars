@@ -152,6 +152,7 @@
 - [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
+- [skills](#skills)
 - [solidity](#solidity)
 - [spring](#spring)
 - [sql](#sql)
@@ -442,6 +443,7 @@
 
 ## dart 
 
+- [denialwm/denial](https://github.com/denialwm/denial) - A smooth, customizable Wayland compositor with glass effects, three window layouts, and settings you can actually click. We got a little carried away.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 
@@ -625,6 +627,7 @@
 
 ## flutter 
 
+- [denialwm/denial](https://github.com/denialwm/denial) - A smooth, customizable Wayland compositor with glass effects, three window layouts, and settings you can actually click. We got a little carried away.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -1349,6 +1352,7 @@
 
 ## rust 
 
+- [denialwm/denial](https://github.com/denialwm/denial) - A smooth, customizable Wayland compositor with glass effects, three window layouts, and settings you can actually click. We got a little carried away.
 - [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [agavra/tuicr](https://github.com/agavra/tuicr) - a code review TUI with vim keybindings
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
@@ -1446,6 +1450,10 @@
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [zemmsoares/awesome-rices](https://github.com/zemmsoares/awesome-rices) - A curated list of awesome unix user rices!
 - [zap-zsh/zap](https://github.com/zap-zsh/zap) - :zap: Zap is a minimal zsh plugin manager
+
+## skills 
+
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 
 ## solidity 
 
