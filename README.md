@@ -41,6 +41,7 @@
 
 ## C 
 
+- [haiwen/seafile](https://github.com/haiwen/seafile) - Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
 - [wmww/tawc](https://github.com/wmww/tawc) - Run Linux programs on Android
 - [sc7280-mainline/linux](https://github.com/sc7280-mainline/linux) - Mainline Kernel fork for SC7280/SM7325/QCM6490 devices
 - [mangowm/mango](https://github.com/mangowm/mango) - Practical and Powerful wayland compositor (dwm but wayland)
